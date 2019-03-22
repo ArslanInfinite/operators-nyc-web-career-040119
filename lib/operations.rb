@@ -10,7 +10,7 @@ speed = 70
 
 	speed = 50
 
-	if speed 
+	if speed
 
 
 end
