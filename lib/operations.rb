@@ -8,11 +8,6 @@ speed = 70
 		false
 	end
 
-	speed = 50
-
-	if speed
-
-
 end
 
 
